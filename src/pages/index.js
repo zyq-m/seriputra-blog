@@ -7,7 +7,7 @@ import Seo from "../components/Seo";
 export default function Home() {
   return (
     <Layout theme={"dark"}>
-      <Seo title="Utama" description="This is homepage" />
+      <Seo title="Utama" />
       <section className="hero flex flex-fd-c flex-jc-c">
         <div className="hero__img"></div>
         <div className="hero__text">
