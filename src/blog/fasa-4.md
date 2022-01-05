@@ -8,7 +8,7 @@ Dalam fasa refleksi, kami dikehendaki untuk menganalisis data yang diperoleh dar
 
 ## Analisis maklum balas
 
-Soalan terdiri daripada 3 bahagian iaitu Bahagian A (Maklumat Peribadi), Bahagiam B (Pengetahuan terhadap Rukun Negara) dan Bahagian C (Pengetahuan terhadap kepentingan institusi beraja)
+Soalan terdiri daripada 3 bahagian iaitu Bahagian A (Maklumat Peribadi), Bahagian B (Pengetahuan terhadap Rukun Negara) dan Bahagian C (Pengetahuan terhadap kepentingan institusi beraja)
 
 ### Bahagian A
 
