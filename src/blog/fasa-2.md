@@ -12,6 +12,8 @@ Setiap ahli kumpulan telah diberikan tanggungjawab dan peranan masing-masing. Se
 
 ## Perbincangan
 
+![Perbincangan melalui Google Meet](../../discuss.jpeg "Perbincangan")
+
 Perbincangan antara ahli kumpulan telah diadakan secara atas talian menggunakan platform Google Meet. Kami telah berbincang berkenaan:
 
 - merangka tugasan
