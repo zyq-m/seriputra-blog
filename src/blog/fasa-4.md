@@ -101,7 +101,7 @@ Berdasarkan data diperoleh, kami dapati bahawa majoriti masyarakat umum mempunya
 
 </div>
 
-Berdasarakan data diperoleh, dapatlah kita rumuskan bahawa responden tahu akan unsur Kesetiaan Kepada Raja dan Negara didukung oleh perlembagaan negara. Manakala selebih nya menjawab tidak dan tidak pasti.
+Berdasarkan data diperoleh, dapatlah kita rumuskan bahawa responden tahu akan unsur Kesetiaan Kepada Raja dan Negara didukung oleh perlembagaan negara. Manakala selebihnya menjawab tidak dan tidak pasti.
 
 **Soalan 3**
 
@@ -121,12 +121,12 @@ Menurut data yang diperolehi, dapat kita rumuskan bahawa 99 orang responden tahu
 
 | Soalan Kajian                                      | Jawapan 1                                                                                                    | Jawapan 2                                                                            | Jawapan 3                                                                | Jawapan 4                                                                            |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| Apakah peranan dalam memertabatkan Institusi Raja? | Mempelajari dan menghayati pelajaran tentang institusi raja dan kandungan nilai yang terkandund di dalamnya. | Menghina institusi raja dengan menyebarkan perkara yang tidak sopan di media sosial. | Memahami keperluan institusi raja dan mempertahankan dari segala hinaan. | Menghormati dan menyanjungi institusi raja sebagai pemerintah tertinggi di Malaysia. |
+| Apakah peranan dalam memartabatkan Institusi Raja? | Mempelajari dan menghayati pelajaran tentang Institusi Raja dan kandungan nilai yang terkandung di dalamnya. | Menghina institusi raja dengan menyebarkan perkara yang tidak sopan di media sosial. | Memahami keperluan institusi raja dan mempertahankan dari segala hinaan. | Menghormati dan menyanjungi institusi raja sebagai pemerintah tertinggi di Malaysia. |
 | Jumlah responden                                   | 114                                                                                                          | 4                                                                                    | 99                                                                       | 103                                                                                  |
 
 </div>
 
-Berdasarakan data yang diperoleh majoriti daripada responden menjawab dengan jawapan yang releven. Ini menunjukkan nilai semangat patriotik serta cinta kepada negara masih kukuh dalam kalangan masyarakat umum.
+Berdasarkan data yang diperoleh majoriti daripada responden menjawab dengan jawapan yang relevan. Ini menunjukkan nilai semangat patriotik serta cinta kepada negara masih kukuh dalam kalangan masyarakat umum.
 
 **Soalan 5**
 
