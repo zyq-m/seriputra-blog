@@ -36,7 +36,7 @@ const plans = [
   },
   {
     id: 5,
-    title: "Fasa 4",
+    title: "Fasa 5",
     date: " 2 Mac 2020",
     activities: ["Simulasi projek", "Menghasilkan video"],
   },
