@@ -1,0 +1,129 @@
+.about {
+  & .yellow-box {
+    background-color: $pale-yellow;
+  }
+
+  &__text {
+    padding-top: calc(rem(50) + $nb-height);
+    padding-inline: $padding-x;
+    padding-bottom: rem(45);
+
+    @include container;
+
+    & .wrapper {
+      margin-bottom: rem(16);
+      gap: rem(24);
+
+      @include for-desktop-up {
+        flex-direction: row;
+        gap: rem(80);
+      }
+    }
+
+    & h1 {
+      margin-right: auto;
+      @include font-size-x;
+      color: $white;
+      line-height: 1.4;
+      text-transform: uppercase;
+    }
+
+    & p {
+      @include font-size($fs-s, $fs-m);
+      line-height: 2;
+      text-align: justify;
+    }
+  }
+
+  & h2 {
+    @include font-size($fs-s, $fs-m);
+    font-family: $ff-font1;
+    letter-spacing: clamp(3px, 1vw, 6px);
+    text-transform: uppercase;
+  }
+
+  &__box {
+    display: grid;
+    gap: rem(45);
+    padding: rem(70) $padding-x;
+
+    @include for-desktop-up {
+      row-gap: rem(60);
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(5, 1fr);
+      width: 100%;
+      max-width: rem(1235);
+      margin-inline: auto;
+
+      & > {
+        & :nth-child(1),
+        :nth-child(2) {
+          grid-column: 1/4;
+        }
+        & :nth-child(3) {
+          grid-row: 3/4;
+          grid-column: 1/3;
+        }
+        & :nth-child(4) {
+          grid-row: 3/4;
+          grid-column: 2/4;
+        }
+      }
+    }
+  }
+}
+
+.profile {
+  width: 100%;
+  max-width: clamp(rem(250), 46vw, rem(347));
+  margin-inline: auto;
+
+  $img-size: clamp(rem(70), 10vw, rem(106));
+
+  &__img {
+    width: $img-size;
+    height: $img-size;
+    background-color: $white;
+    outline: 12px solid $pale-yellow;
+    border-radius: 100%;
+    overflow: hidden;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    @include profile-img;
+  }
+
+  &__detail {
+    position: relative;
+    flex: 1 1 calc(100% - $img-size);
+
+    & > * {
+      margin-left: rem(22);
+    }
+
+    & .name {
+      margin-bottom: rem(13);
+      @include font-size(rem(16), rem(22));
+      font-family: $ff-font1;
+      font-weight: $fw-bold;
+      text-transform: uppercase;
+
+      &::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 0;
+        width: 100%;
+        height: 12px;
+        transform: translateY(-50%);
+        background-color: $pale-yellow;
+      }
+    }
+
+    & .position {
+      color: $dark-gray;
+      @include font-size(rem(14), rem(20));
+    }
+  }
+}

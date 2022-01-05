@@ -1,0 +1,52 @@
+.hero {
+  position: relative;
+  background-color: $gray;
+
+  &__img {
+    min-height: 100vh;
+    background-image: url(https://demimalaiu.com/wp-content/uploads/2021/06/SM-3-1024x576.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter: brightness(0.65);
+  }
+
+  &__text {
+    position: absolute;
+    left: 50%;
+    padding-inline: $padding-x;
+    transform: translateX(-50%);
+
+    @include container;
+
+    & > :not(:last-child) {
+      margin-bottom: rem(26);
+    }
+  }
+
+  h1,
+  p {
+    color: $white;
+  }
+
+  h1 {
+    max-width: 19ch;
+    @include font-size-x;
+    font-family: $ff-font1;
+    text-transform: capitalize;
+  }
+
+  p {
+    max-width: rem(442);
+    @include font-size($fs-m, $fs-s);
+  }
+
+  .cta-btn {
+    display: inline-block;
+    padding: rem(22) rem(24);
+    color: $black;
+    @include font-size($fs-m, $fs-s);
+    background-color: $pale-yellow;
+    border-radius: rem(8);
+  }
+}

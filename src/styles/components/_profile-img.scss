@@ -1,0 +1,32 @@
+@mixin profile-img {
+  &.haziq {
+    background-image: url("../images/profile/haziq.png");
+  }
+  &.harith {
+    background-image: url("../images/profile/harith.png");
+  }
+  &.syazwana {
+    background-image: url("../images/profile/syazwana.png");
+  }
+  &.atierah {
+    background-image: url("../images/profile/atierah.png");
+  }
+  &.mardiah {
+    background-image: url("../images/profile/mardiah.png");
+  }
+  &.amir {
+    background-image: url("../images/profile/amiq.png");
+  }
+  &.syafiqah {
+    background-image: url("../images/profile/syafiqah.png");
+  }
+  &.daus {
+    background-image: url("../images/profile/daus.png");
+  }
+  &.farihah {
+    background-image: url("../images/profile/farihah.png");
+  }
+  &.muaz {
+    background-image: url("../images/profile/muaz.png");
+  }
+}

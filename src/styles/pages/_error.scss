@@ -1,0 +1,28 @@
+.error {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  padding-inline: $padding-x;
+
+  &__wrapper {
+    h1 {
+      margin-bottom: rem(32);
+      @include font-size-x;
+    }
+
+    p {
+      margin-bottom: rem(14);
+    }
+
+    a {
+      color: $black;
+      font-weight: $fw-bold;
+
+      &:hover,
+      &:focus-within {
+        color: $pale-yellow;
+        text-decoration: underline;
+      }
+    }
+  }
+}

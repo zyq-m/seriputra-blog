@@ -1,0 +1,55 @@
+@mixin box-shadow {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+}
+
+@mixin font-size($min, $max) {
+  font-size: clamp($min, 3vw, $max);
+}
+
+@mixin font-size-x {
+  font-size: clamp(rem(40), 6vw, rem(80));
+}
+
+@mixin container {
+  width: 100%;
+  max-width: rem(1137);
+  margin-inline: auto;
+}
+
+@mixin logo($color) {
+  cursor: pointer;
+  color: $color;
+  font-family: $ff-font1;
+  font-weight: $fw-extrabold;
+  font-size: rem(24);
+  text-transform: capitalize;
+  span {
+    color: $pale-yellow;
+  }
+}
+
+@mixin for-phone-only {
+  @media (max-width: 599px) {
+    @content;
+  }
+}
+@mixin for-tablet-portrait-up {
+  @media (min-width: 600px) {
+    @content;
+  }
+}
+@mixin for-tablet-landscape-up {
+  @media (min-width: 900px) {
+    @content;
+  }
+}
+@mixin for-desktop-up {
+  @media (min-width: 1200px) {
+    @content;
+  }
+}
+@mixin for-big-desktop-up {
+  @media (min-width: 1800px) {
+    @content;
+  }
+}

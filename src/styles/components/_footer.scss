@@ -1,0 +1,34 @@
+.footer {
+  background-color: $dark-yellow;
+}
+
+.text {
+  padding: rem(57) $padding-x;
+  @include container;
+  color: $white;
+
+  &__wrapper {
+    flex-direction: column;
+    gap: rem(10);
+    margin-bottom: rem(36);
+    text-transform: capitalize;
+
+    @include for-tablet-landscape-up {
+      flex-direction: row;
+      gap: rem(30);
+    }
+
+    a {
+      color: $white;
+    }
+  }
+
+  .copyright {
+    color: $gray;
+  }
+}
+
+.logo {
+  @include logo($white);
+  margin-bottom: rem(14);
+}

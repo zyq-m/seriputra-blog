@@ -1,0 +1,56 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+body {
+  min-height: 100vh;
+  font-size: $fs-m;
+  font-family: $ff-font2;
+  background-color: $bg-color;
+  line-height: 1.6;
+  // overflow-x: hidden;
+}
+
+// reset
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+button {
+  cursor: pointer;
+  display: block;
+  padding: 0;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.flex {
+  display: flex;
+
+  &-fd-c {
+    flex-direction: column;
+  }
+
+  &-jc-sb {
+    justify-content: space-between;
+  }
+  &-jc-c {
+    justify-content: center;
+  }
+
+  &-ai-c {
+    align-items: center;
+  }
+}

@@ -1,0 +1,15 @@
+@import "./functions";
+@import "./variables";
+@import "./mixins";
+@import "./global";
+
+@import "./components/navbar";
+@import "./components/footer";
+@import "./components/profile-img";
+@import "./components/navblog";
+
+@import "./pages/home";
+@import "./pages/about";
+@import "./pages/plans";
+@import "./pages/error";
+@import "./pages/blog";
