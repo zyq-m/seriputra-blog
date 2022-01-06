@@ -17,7 +17,7 @@ export default function Home() {
             menjalankan projek e-SULAM bagi subjek Penghayatan Etika dan
             Peradaban.
           </p>
-          <Link to="/about" className="cta-btn">
+          <Link to="/about/" className="cta-btn">
             Ketahui lebih lanjut
           </Link>
         </div>
