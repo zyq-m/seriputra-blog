@@ -12,4 +12,6 @@ Dalam fasa ini, kami dikehendaki untuk menghasilkan video berkenaan dengan proje
 - refleksi
 - kesimpulan
 
+[Klik untuk lihat laporan e-SULAM](/viewPDF/)
+
 <iframe width="768" height="432" src="https://www.youtube.com/embed/VJdkMWdSLNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
