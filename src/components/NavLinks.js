@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "gatsby";
 
 const NavLinks = () => {
-  const blogLinks = "/blog/";
 
   return (
     <>
@@ -12,7 +11,11 @@ const NavLinks = () => {
         </Link>
       </li>
       <li>
-        <Link to={blogLinks} activeClassName="active">
+        <Link 
+          to="/blog/" 
+          activeClassName="active"
+          partiallyActive={true}
+        >
           Blog
         </Link>
       </li>
