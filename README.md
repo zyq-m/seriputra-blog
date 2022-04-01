@@ -35,6 +35,6 @@ gatsby develop
 
 ## Author
 
-- github: [zyq-m](https://github.com/zyq-m)
-- twitter: [@zym](https://twitter.com/zyq__m)
+- github: [@zyq-m](https://github.com/zyq-m)
+- twitter: [@zym__m](https://twitter.com/zyq__m)
 - [gmail](mailto:haziq.musa0206@gmail.com)
