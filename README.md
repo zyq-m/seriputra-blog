@@ -28,9 +28,13 @@ Run on your local machine
 
 ```sh
 npm run develop
-```
-or 
-```sh
+# or
 gatsby develop
+
 ```
 
+## Author
+
+-github: [zyq-m](https://github.com/zyq-m)
+-twitter: [@zym](https://twitter.com/zyq__m)
+-[gmail](mailto:haziq.musa0206@gmail.com)
