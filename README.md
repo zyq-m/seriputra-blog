@@ -1,7 +1,36 @@
-# Mukaddimah
+# Seri Putra
 
-**Seri Putra** adalah merupakan projek e-SULAM yang dijalankan di bawah subjek Penghayatan Etika dan Peradaban. Seramai 10 orang ahli telah menjalankan projek ini.
+[Seri Putra](https://seriputra.netlify.app/) is a blog site that build on top of Gatsby.js. Seri Putra also is an assignment project to track update of our SULAM project.
 
-## Developer
+Read more about [SULAM](https://hea.uitm.edu.my/v4/index.php/service/key-initiatives/sulam#:~:text=SERVICE%20LEARNING%20MALAYSIA%20%2D%20UNIVERSITY%20FOR%20SOCIETY%20(SULAM)&text=It%20is%20one%20of%20the,and%20with%20an%20entrepreneurial%20mindset.)
 
-Laman web ini telah dibangunkan sepenuh nya oleh [@zym-m](https://github.com/zyq-m) dengan menggunakan teknologi Gatsby.js.
+## What techs I've used?
+
+- [Gatsby.js](https://www.gatsbyjs.com/)
+- [Scss](https://sass-lang.com/)
+- [Markdown file](https://www.markdownguide.org/getting-started/)
+
+### Add-on
+
+- "Mobile-first" approach
+- Responsive web design
+- [BEM](https://css-tricks.com/bem-101/) methodology approach
+
+## Installation
+
+Clone this repo then install dependecies
+
+```sh
+npm install
+```
+
+Run on your local machine
+
+```sh
+npm run develop
+```
+or 
+```sh
+gatsby develop
+```
+
