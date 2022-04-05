@@ -37,4 +37,4 @@ gatsby develop
 
 - github: [@zyq-m](https://github.com/zyq-m)
 - twitter: [@zym__m](https://twitter.com/zyq__m)
-- gmail: [haziq.musa0206@gmail.com](mailto:haziq.musa0206@gmail.com)
+- gmail: [haziq.musa02@gmail.com](mailto:haziq.musa02@gmail.com)
