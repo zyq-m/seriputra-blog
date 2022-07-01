@@ -1,6 +1,6 @@
 # Seri Putra
 
-[Seri Putra](https://seriputra.netlify.app/) is a blog site that build on top of Gatsby.js. Seri Putra also is an assignment project to track update of our SULAM project.
+Seri Putra is a blog site that build on top of Gatsby.js. Seri Putra also is an assignment project to track update of our SULAM project. Preview live site [here](https://seriputra.netlify.app/).
 
 Read more about [SULAM](https://hea.uitm.edu.my/v4/index.php/service/key-initiatives/sulam#:~:text=SERVICE%20LEARNING%20MALAYSIA%20%2D%20UNIVERSITY%20FOR%20SOCIETY%20(SULAM)&text=It%20is%20one%20of%20the,and%20with%20an%20entrepreneurial%20mindset.)
 
